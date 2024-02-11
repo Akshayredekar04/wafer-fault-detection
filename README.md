@@ -16,3 +16,13 @@ create the envirnment for the project
 ```
 conda create -p env python=3.8 -y
 ```
+
+avtivate envirment
+```
+conda activate .\env
+```
+
+Install dependancies
+```
+pip install -r requirements.txt
+```
